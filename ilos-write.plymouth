@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=I love OS Write
+Description=Some text for I love OS.
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/ilos-write
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x200020
+BackgroundEndColor=0x200020
